@@ -1,0 +1,5 @@
+polars
+altair
+numpy
+scikit-learn
+vega_datasets
